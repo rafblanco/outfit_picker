@@ -11,16 +11,12 @@ import 'firebase/database';
 //   messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
 // };
 var config = {
-<<<<<<< HEAD
-  apiKey: ""
+  apiKey: "",
   authDomain: "outfit-picker-91642.firebaseapp.com",
   databaseURL: "https://outfit-picker-91642.firebaseio.com",
   projectId: "outfit-picker-91642",
   storageBucket: "outfit-picker-91642.appspot.com",
   messagingSenderId: ""
-=======
-
->>>>>>> 2954e2c75b3399bd1941d0d6a575d832b05f7f3c
 };
 
 class Firebase {
